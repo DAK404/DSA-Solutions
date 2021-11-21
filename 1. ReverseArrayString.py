@@ -14,7 +14,7 @@ def reverseArray(listOne, start, end):
         listOne[start], listOne[end] = listOne[end], listOne[start]
         start +=1
         end -=1
-        
+
 # Driver Code
 
 # Store the inputs in a list called listOne

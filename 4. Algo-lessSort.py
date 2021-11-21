@@ -15,8 +15,8 @@ def lsort(l1):
     countL = [l1.count(0), l1.count(1), l1.count(2)]
 
     # a counter to append the values to the list
-    c = 0 
-    
+    c = 0
+
     # loop to append the values to the list
     for i in range(0, 3):
         # append the values in a sorted order to the list
@@ -27,8 +27,8 @@ def lsort(l1):
 
     # print the sorted list
     print(l2)
-        
-        
+
+
 # store the size of the list
 n = int(input())
 
@@ -43,7 +43,7 @@ for i in range (0, n):
     # if temp is not 0, 1 or 2 discard the value
     if(temp > 2):
         continue
-    
+
     # else append the value to the list
     else:
         l1.append()
