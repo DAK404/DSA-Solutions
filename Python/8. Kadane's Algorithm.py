@@ -1,4 +1,5 @@
 # Kadane's Algorithm
+# The same question is repeated in Question no. 13
 
 ###########################################
 # function implementing Kadane's Algorithm
